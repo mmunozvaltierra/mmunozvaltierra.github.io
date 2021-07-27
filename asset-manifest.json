@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mmunozvaltierra/mmunozvaltierra.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/main.c1df76f6.chunk.js",
+    "main.js.map": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/main.c1df76f6.chunk.js.map",
+    "runtime-main.js": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/runtime-main.1356240c.js",
+    "runtime-main.js.map": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/runtime-main.1356240c.js.map",
+    "static/js/2.1bbb31c8.chunk.js": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/2.1bbb31c8.chunk.js",
+    "static/js/2.1bbb31c8.chunk.js.map": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/2.1bbb31c8.chunk.js.map",
+    "static/js/3.1b88b4a3.chunk.js": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/3.1b88b4a3.chunk.js",
+    "static/js/3.1b88b4a3.chunk.js.map": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/3.1b88b4a3.chunk.js.map",
+    "index.html": "/mmunozvaltierra/mmunozvaltierra.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mmunozvaltierra/mmunozvaltierra.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1bbb31c8.chunk.js.LICENSE.txt": "/mmunozvaltierra/mmunozvaltierra.github.io/static/js/2.1bbb31c8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mmunozvaltierra/mmunozvaltierra.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1356240c.js",
+    "static/js/2.1bbb31c8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c1df76f6.chunk.js"
+  ]
+}
