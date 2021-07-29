@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+#intro-section {
+  background-color: lightblue;
+}
+
 #author-img {
   size: 70%;
   border: darkslategrey;
@@ -36,6 +40,12 @@
   width: 350px;
   max-width: 100%;
   height: auto;
+}
+
+#intro-text {
+  font-size: 25px;
+  margin: 3%;
+  max-width:100%;
 }
 
 @keyframes App-logo-spin {
