@@ -10,7 +10,7 @@ export default class NavBar extends Component {
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
                     <Nav.Link href="#home" className="nav-link">About</Nav.Link>
-                    <Nav.Link href="#link" className="nav-link">Projects</Nav.Link>
+                    <Nav.Link href="#link" className="nav-link">Portfolio</Nav.Link>
                     <NavDropdown title="Contact" id="basic-nav-dropdown" className="nav-link">
                         <NavDropdown.Item href="mailto:mauriciomvaltierra@gmail.com">Email</NavDropdown.Item>
                         <NavDropdown.Item href="https://www.linkedin.com/in/mauricio-munoz-valtierra/">LinkedIn</NavDropdown.Item>
