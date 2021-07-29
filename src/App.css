@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+#author-img {
+  size: 70%;
+  border: darkslategrey;
+  border-width: 10%;
+  border-style: solid;
+  width: 350px;
+  max-width: 100%;
+  height: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
