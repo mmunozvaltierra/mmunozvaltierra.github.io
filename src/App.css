@@ -1,3 +1,11 @@
+#about-me-text-box-top {
+  border-bottom: 0px;
+}
+
+#about-me-text-box-bot {
+ border-top: 0px;
+}
+
 .App {
   text-align: center;
 }
@@ -28,18 +36,22 @@
   color: #61dafb;
 }
 
-#intro-section {
-  background-color: lightblue;
-}
-
 #author-img {
   size: 70%;
-  border: darkslategrey;
+  border: white;
   border-width: 10%;
   border-style: solid;
   width: 350px;
   max-width: 100%;
   height: auto;
+}
+
+.content-box {
+  background-color: #680148;
+  border: 2px;
+  border-top: solid;
+  border-style: solid;
+  border-color: #7DB4B5;
 }
 
 #intro-text {
@@ -58,6 +70,27 @@
 }
 
 .nav-link:hover {
-  background-color: lightblue;
+  background-color: #E0EFF1;
   border-radius: 10%;
+}
+
+.palette1-background {
+  background-color: #E0EFF1;
+}
+
+.palette2-background {
+  background-color: #7DB4B5;
+}
+.palette3-background {
+  background-color: #FFFFFF;
+}
+.palette4-background {
+  background-color: #680148;
+}
+.palette5-background {
+  background-color: #000000;
+}
+
+.white-text {
+  color: #FFFFFF;
 }

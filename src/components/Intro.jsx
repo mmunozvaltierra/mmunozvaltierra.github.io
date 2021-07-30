@@ -5,7 +5,7 @@ import portrait from '../images/professionalPortrait.jpg'
 export default class Intro extends Component {
     render() {
         return (
-            <Container fluid id="intro-section">
+            <Container fluid className="palette4-background white-text">
                 <Row>
                     <Col xl="auto">
                         <Image src={portrait} alt='Picture' id="author-img" className="m-4 img-fluid rounded-circle d-flex justify-content"/>

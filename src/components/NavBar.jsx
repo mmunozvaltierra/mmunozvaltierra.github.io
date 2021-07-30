@@ -4,7 +4,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 export default class NavBar extends Component {
     render() {
         return (
-            <Navbar bg="light" expand="lg">
+            <Navbar className="palette2-background" expand="lg">
                 <Navbar.Brand href="#home">Mauricio Muñoz Valtierra</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
