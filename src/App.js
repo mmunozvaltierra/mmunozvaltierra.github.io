@@ -4,7 +4,7 @@ import Intro from './components/Intro'
 import About from './components/About'
 import { Routing } from './Routes';
 
-import {BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {Routes, Route, HashRouter } from "react-router-dom";
 import { Component } from "react";
 
 import { ValentinesPage } from "./pages/ValentinesPage"
@@ -23,12 +23,15 @@ function App() {
     //     <About></About>
     // </div>
     // <Routing/>
-    <Routes>
+    <HashRouter>
+      <Routes>
                 <Route path="/lovemeplease" element={<ValentinesPage/>} />
                 <Route path="/happy6months" element={<Landing/>} />
                 <Route path="/yesyesyes" element={<YesPage/>} />
                 <Route path="/doYouMeanIt" element={<NoPage/>} />
     </Routes>
+    </HashRouter>
+    
   );
 }
 

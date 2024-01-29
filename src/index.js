@@ -14,16 +14,7 @@ import { Routes } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      {/* <Routes>
-        <Route path="/lovemeplease" element={<ValentinesPage/>} />
-        <Route path="/happy6months" element={<Landing/>} />
-        <Route path="/yesyesyes" element={<YesPage/>} />
-        <Route path="/doYouMeanIt" element={<NoPage/>} />
-      </Routes> */}
-        
       <App />
-    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
