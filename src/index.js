@@ -4,10 +4,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, HashRouter } from 'react-router-dom';
+import { Route } from 'react-router-dom';
+import { ValentinesPage } from './pages/ValentinesPage';
+import { Landing } from './pages/Landing';
+import { YesPage } from './pages/YesPage';
+import NoPage from './pages/NoPage';
+import { Routes } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
