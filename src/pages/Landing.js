@@ -10,6 +10,8 @@ export const Landing = () => {
             <Link to="/lovemeplease">
                 <button>
                     <img src={heart} />
+                    <br/>
+                    ILY
                 </button>
             </Link>
         </div>
