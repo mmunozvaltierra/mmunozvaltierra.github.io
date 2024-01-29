@@ -62,17 +62,52 @@ class NoPage extends Component {
                     WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
                     WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
                     WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
-                    WHAT are you sure? ARE you SURE?? 
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
+                    WHAT are you sure? ARE you SURE?? WHAT are you sure? ARE you SURE??
                 </p>
 
-                <img style={{width: '20%'}} src={huh1} />
-                <img style={{width: '20%'}} src={huh2} />
+                <img style={{maxHeight: '300px'}} src={huh1} />
+                <img style={{maxHeight: '300px'}} src={huh2} />
 
                 <br/>
 
-                <img style={{width: '20%'}} src={huh3} />
-                <img style={{width: '20%'}} src={huh4} />
-                <img style={{width: '20%'}} src={huh5} />
+                <img style={{maxHeight: '300px'}} src={huh3} />
+                <img style={{maxHeight: '300px'}} src={huh4} />
+                <img style={{maxHeight: '300px'}} src={huh5} />
 
                 {this.state.shouldRedirect && <Navigate to="/lovemeplease" />}
             </div>

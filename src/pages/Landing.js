@@ -5,7 +5,7 @@ import heart from '../images/heart-icon.png';
 export const Landing = () => {
     return (
         <div style={{textAlign: 'center', fontFamily:"Hearts"}}>
-            <img style={{width: '25%'}} src={logo} />
+            <img style={{maxHeight: '300px'}} src={logo} />
             <h1>Happy 6 Months! I love you!</h1>
             <Link to="/lovemeplease">
                 <button>
