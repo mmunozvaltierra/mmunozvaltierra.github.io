@@ -94,3 +94,9 @@
 .white-text {
   color: #FFFFFF;
 }
+
+@font-face {
+  font-family: "Hearts";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("./fonts/HEARRG__.TTF") format("truetype");
+}
